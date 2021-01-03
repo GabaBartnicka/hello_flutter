@@ -11,7 +11,7 @@ void main() {
         backgroundColor: Colors.black12,
         body: Center(
           child: Image(
-            image: NetworkImage('https://images.pexels.com/photos/6334707/pexels-photo-6334707.jpeg?cs=srgb&dl=pexels-roman-odintsov-6334707.jpg&fm=jpg'),
+            image: AssetImage('images/wine.png'),
           ),
         )
       ),
